@@ -1,3 +1,10 @@
+#contactMeH1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 35;
+  text-decoration:underline;
+}
+
 .hidden.menu {
     display: none;
   }
@@ -7,7 +14,7 @@
     padding: 1em 0em;
   }
   .mastheadProject.segment {
-    min-height: 100px;
+    min-height: 200px;
     padding: 1em 0em;
   }
   .masthead .logo.item img {
