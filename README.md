@@ -16,7 +16,9 @@
 
 
   ## Images
-
+![projects](https://user-images.githubusercontent.com/90366376/150722306-303b830f-4144-44db-be65-6f70205bdee0.PNG)
+![Homepage](https://user-images.githubusercontent.com/90366376/150722313-5fdbeed7-b58f-4b48-bf0b-3d9b899d5fc4.PNG)
+![contactme](https://user-images.githubusercontent.com/90366376/150722321-e2ce0440-929c-4c56-90f0-05710c6e1dbb.PNG)
 
 
   ## Links
