@@ -1,6 +1,11 @@
 html {
   scroll-behavior: smooth;
 }
+/* #skill-list{
+  list-style-type: none;
+  font-size: large;
+  font-weight: bold;
+} */
 
 #contactMeH1 {
   text-align: center;
